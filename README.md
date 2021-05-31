@@ -1,13 +1,19 @@
 # Canary-Telegram
 
 <p align="center">
-   Send a telegram message whenever your computer/laptop is switched on
+  <img src="https://github.com/GoldenCorgi/WONHO/blob/main/wonho.gif?raw=true" title="keep an open mind girl">
+</p>
+<p align="center">
+   rise up subs, we have nothing to lose but our chains
 </p>
 
 
-# Created
+# Description
+Send a telegram message whenever your computer/laptop is switched on, with the ability to lock the computer from your phone
+
+### Created
 ‎Thursday, ‎27 ‎May ‎2021, ‏‎2:29:34 am
-# Last Updated
+### Last Updated
 Friday, ‎6 ‎September ‎2019, ‏‎11:11:02 pm
 
 
